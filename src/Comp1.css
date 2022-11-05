@@ -1,5 +1,5 @@
 #com1 {
- border-style: solid;
+ border-style: solid black ;
  width: 96vw;
  height: 100vh;
  display: flex;
@@ -7,4 +7,5 @@
  flex-wrap: nowrap;
  align-items: center;
  align-content: center;
+
   }
