@@ -10,10 +10,10 @@ function App() {
    <article>
       <Comp1/>
       </article>
-      <section>
+    
       <Comp2/>
       <Comp3/>
-      </section>
+      
       <Comp4/>
 
    </>
