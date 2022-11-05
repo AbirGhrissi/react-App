@@ -1,0 +1,11 @@
+#comp3 {
+  border-style: solid;
+  width: 50vw;
+  height: 48vh;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  flex-direction: column;
+  align-content: center;
+  }

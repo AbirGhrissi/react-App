@@ -1,0 +1,10 @@
+#com4 {
+    border-style: solid;
+    width: 96vw;
+    height:10vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+     }
